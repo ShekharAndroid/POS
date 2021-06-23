@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POS</string>
+    <string name="verifyNumber">Verify Mobile Number</string>
+    <string name="aVarificationcode">A verification code will be texted to you. </string>
+    <string name="aVaritwo">Checking your eligibility won\'t affect your credit score.</string>
+    <string name="byTerms">By continuing, I agree to Skeps\'</string>
+    <string name="termlink">By continuing, I agree to Skeps\' <a href="https://skeps.com/terms">Terms of Service.</a></string>
+</resources>
