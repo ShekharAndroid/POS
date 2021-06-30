@@ -5,4 +5,14 @@
     <string name="aVaritwo">Checking your eligibility won\'t affect your credit score.</string>
     <string name="byTerms">By continuing, I agree to Skeps\'</string>
     <string name="termlink">By continuing, I agree to Skeps\' <a href="https://skeps.com/terms">Terms of Service.</a></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textedyou">We just texted you</string>
+    <string name="entercode">Enter the verification code sent to</string>
+    <string name="enterSSn">Enter last 4 digits of your SSN.</string>
+    <string name="getstart">Let’s get started</string>
+    <string name="tellusmore">Telll us more about yourself</string>
+    <string name="fieldmendotery">All fields are mandatory</string>
+    <string name="condition">I authorize Streamsource Technologies, Inc.</string>
+    <string name="leftcondition"> (“Skeps”), the third party lenders and banks that may extend credit to me ("originating lenders") and their respective agents and affiliated companies (together, "Skeps") to obtain credit reports from one or more consumer credit reporting agencies in order to consider my eligibility for and to present me with pre-qualified credit products. I authorize Skeps to verify information in my credit report and my listing, and I agree that Skeps may contact third parties without further notice to me to verify any such information. I understand that I may be presented with separate disclosures, terms and conditions, and agreements, each specific to any of the originating lenders, and may be required to provide additional consents, and agree to other terms and conditions, presented by these originating lenders, in order for my credit application to be considered by them.</string>
 </resources>

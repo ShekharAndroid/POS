@@ -8,4 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="btntextcolor">#0f9be7</color>
+    <color name="verifymobilecolor">#222222</color>
+    <color name="grayfortext">#838383</color>
+    <color name="resendtext">#c2c2c2</color>
+    <color name="callmecode">#0f9be7</color>
+    <color name="editboxtext">#222222</color>
+    <color name="conditioncolor">#f4f8ff</color>
+    <color name="conditiontextcolor">#657bac</color>
+    <color name="checkboxcolor">#d0d0d0</color>
 </resources>
